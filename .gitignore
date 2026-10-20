@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+uploads/
+versions/
+blobs/
+chronovault.db
+.DS_Store
+backup_before_upgrade/
+timetravel_backup_*/
